@@ -1,3 +1,25 @@
 <resources>
     <string name="app_name">gamecatalog_lab9</string>
+    <string name="game_rdr_title">Red Dead Redemption</string>
+    <string name="game_rdr2_title">Red Dead Redemption 2</string>
+    <string name="game_ln1_title">Little Nightmares</string>
+    <string name="game_ln2_title">Little Nightmares II</string>
+    <string name="game_ln3_title">Little Nightmares III</string>
+    <string name="game_witcher3_title">The Witcher 3: Wild Hunt</string>
+    <string name="game_avatar_title">Avatar: Frontiers of Pandora</string>
+    <string name="game_sh2_title">Silent Hill 2</string>
+
+    <string name="game_rdr_desc">Эпическая история о бандите Артуре Моргане и законе Дикого Запада на рубеже веков.</string>
+    <string name="game_rdr2_desc">Грандиозная сага о жизни в американской глубинке. История банды Ван дер Линде перед рассветом современной эпохи.</string>
+    <string name="game_ln1_desc">Мрачное приключение маленькой девочки Шестой в чреве «Чрева», полного ужасов и загадок.</string>
+    <string name="game_ln2_desc">Кооперативный хоррор-платформер, где Моно и Шестая исследуют искаженный мир, полный опасных ловушек.</string>
+    <string name="game_ln3_desc">Новая глава кошмара. Исследуйте пугающие локации в одиночку или с другом в кооперативном режиме.</string>
+    <string name="game_witcher3_desc">Ролевая игра открытого мира. Ведьмак Геральт ищет Дитя Предназначения в мире, раздираемом войной и монстрами.</string>
+    <string name="game_avatar_desc">Погрузитесь в открытый мир Пандоры. Станьте частью клана На'ви и защитите свой дом от колонизаторов.</string>
+    <string name="game_sh2_desc">Психологический хоррор. Джеймс Сандерленд получает письмо от умершей жены и отправляется в туманный город Сайлент Хилл.</string>
+
+    <string name="genre_action_adventure">Action / Adventure</string>
+    <string name="genre_horror">Horror / Puzzle</string>
+    <string name="genre_rpg">RPG</string>
+    <string name="genre_survival">Survival</string>
 </resources>
